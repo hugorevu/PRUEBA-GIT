@@ -14,3 +14,8 @@
 04     Subí los cambios al remoto
        en la rama main              Ninguna
 
+10     Realicé commit local con
+       mensaje “Paso 10”             Ninguna
+11     Volví a la rama develop       Ninguna
+12     Creé la rama feature/Ticket221
+       y me cambié a ella            Ninguna
