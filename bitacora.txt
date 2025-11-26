@@ -6,4 +6,11 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+01     Cloné el repositorio remoto  Ninguna
+02     Edité bitacora.txt añadiendo
+       mis apellidos y nombre       Ninguna
+03     Realicé commit local con
+       mensaje “Paso 03”            Ninguna
+04     Subí los cambios al remoto
+       en la rama main              Ninguna
 
