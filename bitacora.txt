@@ -13,4 +13,8 @@
        mensaje “Paso 03”            Ninguna
 04     Subí los cambios al remoto
        en la rama main              Ninguna
-
+06     Realicé un commit local para
+       guardar los cambios           Ninguna
+07     Creé la rama develop          Ninguna
+08     Creé la rama feature/Ticket220
+       y me cambié a ella            Ninguna
