@@ -41,3 +41,6 @@
 22     Volví a la rama feature/Ticket220.
        La fusión de esta rama en develop
        en este momento sería: **RECURSIVA**.
+24     Fusioné feature/Ticket220 en develop (recursivo)       Ninguna
+27     Fusioné feature/Ticket221 en develop (recursivo)       Ninguna
+
