@@ -13,4 +13,20 @@
        mensaje “Paso 03”            Ninguna
 04     Subí los cambios al remoto
        en la rama main              Ninguna
-
+06     Realicé un commit local para
+       guardar los cambios           Ninguna
+07     Creé la rama develop          Ninguna
+08     Creé la rama feature/Ticket220
+       y me cambié a ella            Ninguna
+14     Volví a la rama feature/Ticket220 sin crear commit nuevo    Ninguna
+15     Edité la bitácora para registrar el paso 14                 Ninguna
+18     Edité la bitácora en feature/Ticket221
+       para reflejar los pasos 16 y 17       Ninguna
+19     Realicé un commit local en
+       feature/Ticket221                     Ninguna
+20     Volví a la rama develop               Ninguna
+21     Creé la rama feature/Ticket222
+       desde develop                         Ninguna
+22     Volví a la rama feature/Ticket220.
+       La fusión de esta rama en develop
+       en este momento sería: **RECURSIVA**.
