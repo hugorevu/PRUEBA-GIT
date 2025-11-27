@@ -43,4 +43,12 @@
        en este momento sería: **RECURSIVA**.
 24     Fusioné feature/Ticket220 en develop (recursivo)       Ninguna
 27     Fusioné feature/Ticket221 en develop (recursivo)       Ninguna
+29     Realicé commit en develop con los pasos 24–27        Ninguna
+30     Etiqueté el commit como Step29                       Ninguna
+31     Subí develop al repositorio remoto
+       sin subir la etiqueta                                 Ninguna
+32     Volví a la rama feature/Ticket222                   Ninguna
+33     Recuperé únicamente el fichero bitacora.txt
+       desde develop                                        Ninguna
+
 
