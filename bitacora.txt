@@ -19,3 +19,8 @@
 11     Volví a la rama develop       Ninguna
 12     Creé la rama feature/Ticket221
        y me cambié a ella            Ninguna
+16     Realicé un commit en la rama
+       feature/Ticket220 para guardar
+       la descripción del paso 14       Ninguna
+17     Volví a la rama feature/Ticket221
+       sin crear versiones nuevas       Ninguna
