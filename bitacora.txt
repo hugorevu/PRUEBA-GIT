@@ -18,8 +18,19 @@
 07     Creé la rama develop          Ninguna
 08     Creé la rama feature/Ticket220
        y me cambié a ella            Ninguna
+
+10     Realicé commit local con
+       mensaje “Paso 10”             Ninguna
+11     Volví a la rama develop       Ninguna
+12     Creé la rama feature/Ticket221
+       y me cambié a ella            Ninguna
 14     Volví a la rama feature/Ticket220 sin crear commit nuevo    Ninguna
 15     Edité la bitácora para registrar el paso 14                 Ninguna
+16     Realicé un commit en la rama
+       feature/Ticket220 para guardar
+       la descripción del paso 14       Ninguna
+17     Volví a la rama feature/Ticket221
+       sin crear versiones nuevas       Ninguna
 18     Edité la bitácora en feature/Ticket221
        para reflejar los pasos 16 y 17       Ninguna
 19     Realicé un commit local en
