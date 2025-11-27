@@ -50,5 +50,12 @@
 32     Volví a la rama feature/Ticket222                   Ninguna
 33     Recuperé únicamente el fichero bitacora.txt
        desde develop                                        Ninguna
-
+35     Commit en feature/Ticket222 con la
+       descripción de los pasos 29–33      Ninguna
+36     Volví a develop                     Ninguna
+37     Fusioné feature/Ticket222 en develop
+       mediante merge recursivo            Ninguna
+38     Volví a la rama main                Ninguna
+39     Fusioné develop en main
+       mediante merge recursivo            Ninguna
 
